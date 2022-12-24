@@ -1,0 +1,31 @@
+.wrapC4{
+    background: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    height: 30%;
+ 
+    
+}
+
+.miniWrapC4{
+    background: rgb(255, 255, 255);
+    width: 30%;
+    text-align: left;
+    margin-left: 24%;
+    
+
+}
+
+.h4C4{
+    font-size: 36px;
+    color: rgb(59, 4, 121);
+    padding-left: 2%;
+    padding-bottom: 4%;
+}
+
+.pC4{
+    padding-left: 2%;
+    color: gray;
+    font-weight: 10;
+    width: 80%;
+}

@@ -1,0 +1,153 @@
+.wrapC2{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    background: rgb(255, 255, 255);
+}
+
+
+
+
+
+.wrapLeftC2{
+    width: 20%;
+    height: 400px;
+    background: rgb(255, 255, 255);
+    text-align: left;
+    padding-left: 2%;
+
+}
+
+.h1C2{
+    padding-bottom: 2%;
+    padding-top: 12%;
+    color:  rgb(59, 4, 121);
+}
+
+.pC2{
+    padding-top: 2%;
+    color: gray;
+    font-weight: 10;
+    width: 80%;
+}
+
+.pListC2{
+    padding-top: 2%;
+    color: gray;
+}
+
+.wrapRightC2{
+    width: 30%;
+    height: 600px;
+    background: rgb(255, 255, 255);
+    padding-left: 2%;
+    margin-top: 12%;
+}
+
+.img1C2{
+    width: 420px;
+    height: 420px;
+    z-index: 5;
+}
+
+.colorBlC2{
+    background:  rgb(59, 4, 121);
+    height: 260px;
+    width: 200px;
+    text-align: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 2%;
+    position: absolute;
+    margin-top:-11% ;
+    z-index: 10;
+    margin-left: 19%;
+}
+
+.h4RC2{
+    color: white;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+
+
+.pRC2{
+    color: rgb(255, 255, 255,0.4);
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 8%;
+}
+
+
+.pColorRC2{
+    color: rgb(184, 0, 77);
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.pColorRC2:hover{
+    color: rgb(129, 0, 54);
+    transition:0.5s;
+}
+
+.imgDronRC2{
+    width: 40px;
+    height: 40px;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+
+
+
+
+
+
+@media (min-width: 400px){
+    .wrapLeftC2{
+        width: 100%;
+    }
+
+
+    .wrapColorBlC2{
+        width: 100%;
+        margin-right: 70%;
+    
+    }
+  
+}
+
+@media (min-width: 768px){
+    .wrapLeftC2{
+        width: 100%;
+
+    }
+
+   
+}
+
+
+
+
+
+
+@media( min-width: 1024px){
+    .wrapLeftC2{
+        width: 20%;
+        height: 500px;
+    }
+}
+
+
+@media( min-width: 1440px){
+    .wrapLeftC2{
+        width: 26%;
+    }
+}

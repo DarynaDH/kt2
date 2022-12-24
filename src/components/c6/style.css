@@ -1,0 +1,33 @@
+.wrapC6{
+    background: rgb(244, 244, 244);
+    display: flex;
+    align-items: center;
+    height: 20%;
+ 
+    
+}
+
+.miniWrapC6{
+    background:  rgb(244, 244, 244);
+    width: 30%;
+    text-align: left;
+    margin-left: 24%;
+    
+
+}
+
+.h4C6{
+    font-size: 36px;
+    color: rgb(59, 4, 121);
+    padding-left: 2%;
+    padding-bottom: 4%;
+    padding-top: 8%;
+}
+
+.pC6{
+    padding-left: 2%;
+    color: gray;
+    font-weight: 10;
+    width: 80%;
+    padding-bottom: 8%;
+}
